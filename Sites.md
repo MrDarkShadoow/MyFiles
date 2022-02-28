@@ -19,10 +19,11 @@
 - [AI Gahaku](https://ai-art.tokyo/en/)
 - [kapwing](https://www.kapwing.com/explore/profile-picture-maker)
 - [profilepicturemaker](https://profilepicturemaker.com/)
-- []
-- []
-- []
-- []
-- []
-- []
-- []
+- [Logo](https://app.logo.com/business-name)
+- [canva](https://www.canva.com/tools/logo-maker-q1/?utm_source=google_sem&utm_medium=cpc&utm_campaign=br_en_all_pro_rev_conversion_logo_em&utm_term=br_en_all_pro_rev_conversion_logo-generator_em&gclid=Cj0KCQiA3rKQBhCNARIsACUEW_aDpvn5zBfowXFhTf4hnjM13yB1ruiROwQbWE66IMl0kHEqCg0PEVUaArS8EALw_wcB&gclsrc=aw.ds)
+- [fotor](https://www.fotor.com/design/wallpaper)
+- [visme](https://www.visme.co/wallpaper-maker/)
+- [picsart](https://picsart.com/wallpaper-maker)
+- [pixteller](https://pixteller.com/wallpaper-maker)
+- [geometric-background-generator](https://lonewolfonline.net/geometric-background-generator/)
+- [osustuff](osustuff.org/avatar-maker)
